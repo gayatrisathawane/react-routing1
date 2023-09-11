@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(14, 15, 15);
+    color: rgb(250, 247, 247);
+   font-size: 20px;
+   padding: 20px;
+ 
+}
+.nav{
+    display: inline-block;
+}
+.item{
+    display: inline;
+    margin-left: 140px;
+    color: azure;
+    text-decoration: none;
+}
